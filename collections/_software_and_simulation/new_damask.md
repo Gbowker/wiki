@@ -112,3 +112,4 @@ When running `DAMASK_spectral`, we've found the following differences between th
   - `eulerangles` (orientation as Bunge triple)
   - `Volume`
 - The `<crystallite>` output keys need to be moved (or copied) to each phase definition section to be output in the hdf5 file
+- `coveraratio` is now `c/a`
